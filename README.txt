@@ -1,4 +1,4 @@
-This is an OLD java project made in SFWRENG 2S03.
+This is an java project made in SFWRENG 2S03.
 
 Objective is to create a virtual store running within the console.
 
