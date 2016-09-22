@@ -1,0 +1,38 @@
+Eric
+U100, Twilight, 750
+Total Price of order U100: 847.5$
+
+White
+U101, C++ you are my soul, 765
+U101, Java you are in my heart, 102
+Total Price of order U101: 990.6$
+
+Brown
+U102, GHID, 20
+Total Price of order U102: 22.6$
+
+Eric
+U103, Java Rocks, 612
+Total Price of order U103: 696.06$
+
+White
+U104, Python Sucks, 204
+Total Price of order U104: 250.08$
+
+Eric
+U105, Python Sucks, 408
+Total Price of order U105: 476.08$
+
+Eric
+U106, Java Rocks, 153
+Total Price of order U106: 187.5$
+
+Eric
+U107, Python Sucks, 2652
+Total Price of order U107: 2962$
+
+Brown
+U108, Harry Potter All Vol., 1000
+U108, Java you are in my heart, 102
+Total Price of order U108: 1255$
+
